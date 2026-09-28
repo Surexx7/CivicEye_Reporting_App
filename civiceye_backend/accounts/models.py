@@ -1,6 +1,8 @@
 from django.contrib.auth.models import User
 from django.db import models
 
+# Create your models here.
+
 DEPARTMENT_CHOICES = [
     ('electricity', 'Electricity'),
     ('water',       'Water'),
